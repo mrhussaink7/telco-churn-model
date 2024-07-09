@@ -2,3 +2,8 @@
 .ipynb_checkpoints
 ~/notebooks/.ipynb_checkpoints
 
+# Film Data Template
+film_data_analysis.ipynb
+
+# Mac Dump Files
+.DS_Store

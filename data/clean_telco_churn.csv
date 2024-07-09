@@ -1,4 +1,4 @@
-Male,Partner,Dependents,SeniorCitizen,AccountLength,PhoneService,MultipleLines,NoInternet,DSLInternet,FiberOpticInternet,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,MonthlyContract,AnnualContract,BiannualContract,AutoBankTransfer,AutoCreditCard,ElectronicCheck,MailedCheck,PaperlessBilling,MonthlyCharges,TotalCharges,Churn
+Male,Partner,Dependents,SeniorCitizen,DurationMonths,PhoneService,MultipleLines,NoInternet,DSLInternet,FiberOpticInternet,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,MonthlyContract,AnnualContract,BiannualContract,AutoBankTransfer,AutoCreditCard,ElectronicCheck,MailedCheck,PaperlessBilling,MonthlyCharges,TotalCharges,Churn
 0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,29.85,29.85,0
 1,0,0,0,34,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,56.95,1889.5,0
 1,0,0,0,2,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,53.85,108.15,1

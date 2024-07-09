@@ -1,0 +1,4 @@
+# Ignore ipynb checkpoints
+.ipynb_checkpoints
+~/notebooks/.ipynb_checkpoints
+

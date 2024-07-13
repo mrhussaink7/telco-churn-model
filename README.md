@@ -34,7 +34,7 @@ This project builds `predictive churn models using Logistic Regression and Decis
 
 `Recommendation:` Investigate the underlying issues with the Fiber-optic service to reduce churn. In the interim, offer Tech Support and Online Security add-ons to customers nearing the $75 monthly charge to help retain them.
 
-![image](images/business_rec_1.png)
+![image](images/solution_1.png)
 
 ### 2. Promote Add-On Services to Reduce Churn
 
@@ -42,7 +42,7 @@ This project builds `predictive churn models using Logistic Regression and Decis
 
 `Recommendation:` Encourage subscriptions to these add-ons, especially for customers who are at risk of churning, to improve retention rates.
 
-![image](images/business_rec_2.png)
+![image](images/solution_2.png)
 
 ### 3. Target Customers with High Monthly Charges on Monthly Contracts
 
@@ -50,7 +50,7 @@ This project builds `predictive churn models using Logistic Regression and Decis
 
 `Recommendation:` Monitor these customers closely and provide targeted offers or discounts to retain them, focusing on those with charges between `$56-$75`, where churn rates start to increase.
 
-![image](images/business_rec_3.png)
+![image](images/solution_3.png)
 
 ## Conclusion
 

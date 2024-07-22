@@ -3,6 +3,7 @@
 # Ignore ipynb checkpoints
 .ipynb_checkpoints
 ~/notebooks/.ipynb_checkpoints
+~/notebooks/model_code.ipynb
 
 # Mac Dump Files
 .DS_Store
